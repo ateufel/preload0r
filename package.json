@@ -1,0 +1,24 @@
+{
+  "name": "preload0r",
+  "version": "1.0.0",
+  "description": "Preload0r - Easy Image Preloader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luschn/preload0r.git"
+  },
+  "keywords": [
+    "image",
+    "preload"
+  ],
+  "author": "Andreas Teufel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luschn/preload0r/issues"
+  },
+  "homepage": "https://github.com/luschn/preload0r",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-uglify": "^0.2.1",
+    "gulp-header": "^1.0.2"
+  }
+}
