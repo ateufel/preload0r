@@ -17,6 +17,7 @@ gulp.task('compress', function() {
 		.pipe(header(banner, {pkg: pkg}))
 		.pipe(gulp.dest('build'))
 });
+
 gulp.task('default', function () {
     gulp.start('compress');
 });
