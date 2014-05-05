@@ -1,4 +1,4 @@
-/*! preload0r - v1.0.0 - 2014-05-05
+/*! preload0r - v1.0.0
  * https://github.com/luschn/preload0r
  * Copyright (c) 2014 Andreas Teufel; Licensed MIT */
 /*
