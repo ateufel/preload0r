@@ -19,7 +19,7 @@
 	"gulpfile.js",
 	"package.json",
 	"LICENSE",
-	"*.log",
+	"*.log"
   ],
   "license": "MIT",
   "ignore": [
