@@ -1,9 +1,8 @@
 /*!
- * preload0r
- *
- *
- * Copyright (c) 2014 Andreas Teufel
- * Licensed under the MIT license.
+ * preload0r - Easy Image Preloader
+ * @version v1.1.0
+ * @link https://github.com/ateufel/preload0r
+ * @license MIT
  */
 
 (function (global) {

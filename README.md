@@ -14,5 +14,5 @@ JavaScript:
 Preload0r([
 	'someimage.gif',
 	'someotherimage.jpg'
-]);
+], callbackFunction, progressFunction);
 ```

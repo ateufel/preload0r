@@ -6,18 +6,19 @@
 <body>
     <script src="../src/preload0r.js"></script>
     <script>
+		function onProgress (loaded) {
+			console.log('onProgress / loaded pics: ' + loaded);
+		}
+		
+		function onComplete () {
+			console.log('onComplete');
+		}
+		
         Preload0r([
             'img/test1.jpg',
             'img/test2.jpg',
             'img/test3.jpg'
-        ], {
-            onProgress: function (loaded) {
-                console.log('onProgress / loaded pics: ' + loaded);
-            },
-            onComplete: function () {
-                console.log('onComplete');
-            }
-        });
+        ], onComplete, onProgress);
     </script>
 </body>
 </html>
