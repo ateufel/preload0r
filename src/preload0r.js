@@ -1,6 +1,6 @@
 /*!
  * preload0r - Easy Image Preloader
- * @version v1.1.2
+ * @version v1.1.3
  * @link https://github.com/ateufel/preload0r
  * @license MIT
  */
