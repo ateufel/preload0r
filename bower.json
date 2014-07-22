@@ -12,14 +12,9 @@
 	"preload0r"
   ],
   "ignore": [
-	".gitignore",
-	".jshintignore",
-	".jshintrc",
-	"bower.json",
-	"gulpfile.js",
-	"package.json",
-	"LICENSE",
-	"*.log"
+	"**/*",
+	"!src/*",
+	"!build/*"
   ],
   "license": "MIT",
   "ignore": [
