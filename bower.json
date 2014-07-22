@@ -1,7 +1,7 @@
 {
   "name": "preload0r",
   "version": "1.1.0",
-  "homepage": "https://github.com/luschn/preload0r",
+  "homepage": "https://github.com/ateufel/preload0r",
   "author": "Andreas Teufel",
   "description": "Easy Image Preloader",
   "main": "src/preload0r.js",

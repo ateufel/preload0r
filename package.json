@@ -4,7 +4,7 @@
   "description": "Easy Image Preloader",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luschn/preload0r.git"
+    "url": "https://github.com/ateufel/preload0r.git"
   },
   "keywords": [
     "image",
@@ -13,9 +13,9 @@
   "author": "Andreas Teufel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luschn/preload0r/issues"
+    "url": "https://github.com/ateufel/preload0r/issues"
   },
-  "homepage": "https://github.com/luschn/preload0r",
+  "homepage": "https://github.com/ateufel/preload0r",
   "devDependencies": {
     "gulp": "^3.6.2",
     "gulp-uglify": "^0.2.1",
