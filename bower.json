@@ -1,0 +1,22 @@
+{
+  "name": "preload0r",
+  "version": "1.1.0",
+  "homepage": "https://github.com/luschn/preload0r",
+  "author": "Andreas Teufel",
+  "description": "Easy Image Preloader",
+  "main": "src/preload0r.js",
+  "keywords": [
+    "image",
+    "preload",
+	"preloader",
+	"preload0r"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

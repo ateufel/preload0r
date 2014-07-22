@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Preload0r Test</title>
+</head>
+<body>
+    <script src="../src/preload0r.js"></script>
+    <script>
+        Preload0r([
+            'img/test1.jpg',
+            'img/test2.jpg',
+            'img/test3.jpg'
+        ], {
+            onProgress: function (loaded) {
+                console.log('onProgress / loaded pics: ' + loaded);
+            },
+            onComplete: function () {
+                console.log('onComplete');
+            }
+        });
+    </script>
+</body>
+</html>
