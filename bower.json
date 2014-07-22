@@ -12,7 +12,6 @@
 	"preload0r"
   ],
   "ignore": [
-	".bowerrc",
 	".gitignore",
 	".jshintignore",
 	".jshintrc",
