@@ -1,6 +1,6 @@
 {
   "name": "preload0r",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "homepage": "https://github.com/ateufel/preload0r",
   "author": "Andreas Teufel",
   "description": "Easy Image Preloader",
@@ -18,5 +18,5 @@
 	"!README.md",
 	"!LICENSE"
   ],
-  "license": "MIT",
+  "license": "MIT"
 }
