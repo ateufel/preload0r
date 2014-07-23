@@ -1,6 +1,6 @@
 {
   "name": "preload0r",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "homepage": "https://github.com/ateufel/preload0r",
   "author": "Andreas Teufel",
   "description": "Easy Image Preloader",
@@ -15,14 +15,8 @@
 	"*.*",
 	"!src/*.js",
 	"!build/*.js",
-	"!README.md"
+	"!README.md",
+	"!LICENSE",
   ],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
 }
