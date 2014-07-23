@@ -1,6 +1,6 @@
 {
   "name": "preload0r",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "homepage": "https://github.com/ateufel/preload0r",
   "author": "Andreas Teufel",
   "description": "Easy Image Preloader",
@@ -12,7 +12,7 @@
 	"preload0r"
   ],
   "ignore": [
-	"*.*",
+	"*",
 	"!src/*.js",
 	"!build/*.js",
 	"!README.md",
