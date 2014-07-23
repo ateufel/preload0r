@@ -12,9 +12,9 @@
 	"preload0r"
   ],
   "ignore": [
-	"**/.*",
-	"!src/.*",
-	"!build/.*"
+	"*.*",
+	"!src/*.*",
+	"!build/*.*"
   ],
   "license": "MIT",
   "ignore": [
