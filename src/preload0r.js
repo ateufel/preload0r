@@ -1,6 +1,6 @@
 /*!
  * preload0r - Easy Image Preloader
- * @version v1.1.10
+ * @version v1.1.11
  * @link https://github.com/ateufel/preload0r
  * @license MIT
  */
@@ -28,6 +28,7 @@
         callback = cb || null;
         callbackTick = cbTick || null;
         count = paths.length;
+		loaded = 0;
         for (var i = 0; i < count; i++) {
             images[i] = new Image();
             images[i].onload = onloadCallback;
